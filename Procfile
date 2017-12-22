@@ -1,0 +1,1 @@
+web: gunicorn bitzon.wsgi --log-file -
